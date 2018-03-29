@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<thumbnails>
+	<thumbnail filename="image4.jpg"
+		target="_parent"
+		title="family" 
+		description="me and my family." />
+	<thumbnail filename="chr.jpg" 
+		target="_parent" 
+		title=" mua" 
+		description="my first thanks giving." />
+	<thumbnail filename="ethpho.jpg"
+	
+		target="_parent"
+		title=" in ethiopia" 
+		description="photo in ethiopia." />
+	<thumbnail filename="fath.jpg"
+		target="_parent"
+		title="photo with my father" 
+		description="photo with my father and my sister." />
+	<thumbnail filename="image1.jpg"
+		target="_parent"
+		title="ethiopian church" 
+		description="ethiopian church." />
+	<thumbnail filename="image2.jpg"
+		target="_parent"
+		title="cross" 
+		description="the cross." />
+		
+	<thumbnail filename="image13.jpg"
+		target="_parent"
+		title="camel" 
+		description="a camel." />
+	<thumbnail filename="mom.jpg"
+		target="_parent" 
+		title="mom" 
+		description="me and my mom." />
+	<thumbnail filename="sis.jpg"
+		target="_parent"
+		title=" sister" 
+		description="my sister." />
+	<thumbnail filename="pbsp.jpg"
+		target="_parent"
+		title=" giving speech" 
+		description="giving speech." />
+</thumbnails>

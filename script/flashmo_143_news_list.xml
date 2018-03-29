@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<item>
+		<title>Dr.Bryce</title>
+		<url>Not yet</url>
+		<target>audio</target>
+		<description><img src="images/bryce.jpg" width="50" height="50" hspace="5" vspace="-5"/>
+hey yebe, how are you doing? how is class I left you an audio email. This is a cool staff...
+		</description>
+	</item>
+	<item>
+		<title>yebeMan</title>
+		<url>Not yet</url>
+		<target>video</target>
+		<description><img src="images/yebe.jpg" width="50" height="50" hspace="5" vspace="-5"/>
+Yes i heard it, it is cool. I left you a video email check it out.
+		</description>
+	</item>
+	<item>
+		<title>Dr. Bryce</title>
+		<url>Not yet</url>
+		<target>text</target>
+		<description><img src="images/bryce.jpg" width="50" height="50" hspace="5" vspace="-5"/> 
+		The video you sent me was so funny i almost cried. you should post it on the news feed.
+		</description>
+	</item>
+	<item>
+		<title>yebeMan</title>
+		<url>Not yet</url>
+		<target>text</target>
+		<description><img src="images/yebe.jpg" width="50" height="50" hspace="5" vspace="-5"/>
+btw, how are you and lori doing? you should pop up the question soon! 
+		</description>
+	</item>
+	<item>
+		<title>yebeMan</title>
+		<url>Not yet</url>
+		<target>video</target>
+		<description><img src="images/yebe.jpg" width="50" height="50" hspace="5" vspace="-5"/>
+i found a great video. you should look at it!!!
+		</description>
+	</item>
+	<item>
+		<title>Dr.Bryce</title>
+		<url>Not yet</url>
+		<target>audio</target>
+		<description><img src="images/bryce.jpg" width="50" height="50" hspace="5" vspace="-5"/>
+haha i loved it! i didnt had time to type this so I left you an audio message
+		</description>
+	</item>
+	<item>
+		<title>yebeMan</title>
+		<url>Not yet</url>
+		<target>text</target>
+		<description><img src="images/yebe.jpg" width="50" height="50" hspace="5" vspace="-5"/>
+thanks i heard it.
+		</description>
+	</item>
+</items>

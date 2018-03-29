@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<videos>
+
+	<video>
+		<title>Free Flash XML Video Player</title>
+		<description><![CDATA[<p><a href="http://www.flashmo.com/preview/flashmo_215_video_player" target="_parent">Flash Video Player</a> is provided by flashmo.com for free of charge. You may download and use the source file for your websites. <span class="note">You may put a credit link back to <a href="http://www.flashmo.com">flashmo.com</a> if you wish to.</span></p>]]></description>
+		<url>videos/Zombie Experiment NYC.flv</url>
+		<thumbnail>thumbnails/s_water_surface.jpg</thumbnail>
+		<duration>00:31</duration>
+	</video>
+	<video>
+		<title>Integer pellentesque dignissim diam</title>
+		<description><![CDATA[<p>This text is dynamically loaded from <span class="highlight">the external XML file</span>. Also, this HTML text is formatted by <span class="highlight">the external CSS file</span>. <span class="note">Maecenas nisl ante, mollis et, tincidunt vitae, feugiat sit amet, mi. Vestibulum urna. Vivamus eu tortor.</span></p>]]></description>
+		<url>videos/camera_focus.flv</url>
+		<thumbnail>thumbnails/s_camera_focus.jpg</thumbnail>
+		<duration>00:25</duration>
+	</video>
+	
+</videos>

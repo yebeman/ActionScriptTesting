@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<item>
+		<title>Dr.Bryce</title>
+		<url></url>
+		<target>Audio</target>
+		<description><img src="images/bryce.jpg" width="50" height="50" hspace="5" vspace="-5"/> 
+hey yebe, how are you doing? how is class
+		</description>
+	</item>
+	<item>
+		<title>Jackie Chan</title>
+		<url></url>
+		<target>Text</target>
+		<description><img src="images/chat.jpg" width="50" height="50" hspace="5" vspace="-5"/>
+hey yebe, why dont you come the party here...
+		</description>
+	</item>
+	<item>
+		<title>Obama</title>
+		<url></url>
+		<target>Video</target>
+		<description><img src="images/chat2.jpg" width="50" height="50" hspace="5" vspace="-5"/>
+hey yebe, we need expertise in the field of ...
+		</description>
+	</item>
+	<item>
+		<title>Bill Gates</title>
+		<url></url>
+		<target>Text</target>
+		<description><img src="images/david.jpg" width="50" height="50" hspace="5" vspace="-5"/>
+hey yebe, I need a loan for about 5 billion dol...
+		</description>
+	</item>
+	<item>
+		<title>mark zuckerberg</title>
+		<url></url>
+		<target>Audio</target>
+		<description><img src="images/history.jpg" width="50" height="50" hspace="5" vspace="-5"/>
+hey yebe,
+i loved it thanks bro...
+			</description>
+	</item>
+	<item>
+		<title>Scarlett Johansson</title>
+		<url></url>
+		<target>Video</target>
+		<description><img src="images/mark.jpg" width="50" height="50" hspace="5" vspace="-5"/>
+hey yebe, I heard that you had a crash on me...
+		</description>
+	</item>
+	<item>
+		<title>Muluken</title>
+		<url></url>
+		<target>Audio</target>
+		<description><img src="images/team.jpg" width="50" height="50" hspace="5" vspace="-5"/>
+how is life there, we are worried about you...
+		</description>
+	</item>
+</items>
